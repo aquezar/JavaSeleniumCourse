@@ -1,0 +1,6 @@
+USERNAME,PASSWORD,FIRSTNAME,LASTNAME,ROLE
+user1,password1,John,Smith,USER
+user2,123_pass,Ann,Berg,User
+dev1,PaSsWoRd_rem12,Nick,Hatfield,DEVELOPER
+user3,QWERT12345,Stepan,Semenov,user
+dev2,veryhardtobrutepassword,Stephen,Moris,developer
